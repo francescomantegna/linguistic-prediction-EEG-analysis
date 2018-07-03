@@ -1,1 +1,1 @@
-# sound-prediction-EEG-analisys
+# sound-prediction-EEG-analysis
