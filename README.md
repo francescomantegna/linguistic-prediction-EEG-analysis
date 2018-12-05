@@ -4,7 +4,7 @@ In this experiment, we investigated the pre-activation of sound representations 
 
 # Prerequisites
 
-In order to run the code in this repository you need a MATLAB academic use license. Moreover, you need to download the open source MATLAB toolbox FieldTrip (Oostenveld, Fries, Maris, & Schoffelen, 2011). See MATLAB requirements for using FieldTrip here (http://www.fieldtriptoolbox.org/faq/requirements)
+In order to run the code in this repository you need a MATLAB license. Moreover, you need to download the open source MATLAB toolbox FieldTrip (Oostenveld, Fries, Maris, & Schoffelen, 2011). See MATLAB requirements for using FieldTrip here (http://www.fieldtriptoolbox.org/faq/requirements)
 
 # Installing
 
