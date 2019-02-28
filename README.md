@@ -12,4 +12,4 @@ You can download FieldTrip here http://www.fieldtriptoolbox.org/download. I used
 
 # DOI
 
-https://zenodo.org/badge/doi/10.5281/zenodo.2579786.svg
+
