@@ -12,4 +12,4 @@ You can download FieldTrip here http://www.fieldtriptoolbox.org/download. I used
 
 # DOI
 
-
+[![DOI](https://zenodo.org/badge/139552686.svg)](https://zenodo.org/badge/latestdoi/139552686)
