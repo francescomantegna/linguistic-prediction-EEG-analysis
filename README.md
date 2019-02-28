@@ -1,6 +1,6 @@
-# sound-prediction-EEG-analysis
+# linguistic-prediction-EEG-analysis
 
-In this experiment, we investigated the pre-activation of sound representations of rhyming final words in spoken sentences-pairs by measuring event-related potentials and time-frequency spectra in order to answer to the following questions: (i) to what extent are phonological representations of upcoming words predicted? (ii) can we detect clear neural correlates of phonological-form prediction? (iii) is there a similar sound-based prediction mechanism in music?
+Many theoretical accounts of prediction in language processing are based to a substantial amount on experimental evidence from electrophysiological studies measuring N400 target word modulations. A drawback of most of these studies is that lexical prediction accounts cannot be distinguished conclusively from (non-prediction) lexical integration (‘bottom-up’ activation) accounts. Here we explored whether it is possible to distinguish integration and prediction accounts of ERP N400 modulations in language processing through experimental design. By employing rhyming sentence completions, we kept ‘word integratability’ constant across conditions that differed in word predictability only.  This experimental design allowed us to attribute N400 target word effects across conditions to predictive language processing. We close by discussing recommendations for future electrophysiological studies on prediction in language.
 
 # Prerequisites
 
