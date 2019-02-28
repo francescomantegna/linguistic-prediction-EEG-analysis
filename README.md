@@ -10,3 +10,6 @@ In order to run the code in this repository you need a MATLAB license. Moreover,
 
 You can download FieldTrip here http://www.fieldtriptoolbox.org/download. I used the 2017 version to write and test the code.
 
+# DOI
+
+https://zenodo.org/badge/doi/10.5281/zenodo.2579786.svg
